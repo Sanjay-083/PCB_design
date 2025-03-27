@@ -1,0 +1,23 @@
+### Footprint positions - created on 2025-03-27T13:21:20+0530 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val         Package                                              PosX       PosY       Rot  Side
+16Mhz1    Crystal     Crystal_C38-LF_D3.0mm_L8.0mm_Vertical            100.7850   -75.9850    0.0000  top
+BZ1       Buzzer      MagneticBuzzer_ProSignal_ABI-009-RC              109.4000   -72.5000    0.0000  top
+C1        22pf        C_Disc_D14.5mm_W5.0mm_P7.50mm                     79.7500  -102.5000    0.0000  top
+D1        1N4148WT    D_SOD-523                                        105.8000   -74.7350    0.0000  top
+Fan       Fan         TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm   112.5000  -102.0000    0.0000  top
+K1        Relay_SPDT  Relay_SPDT_Panasonic_DR-L                         76.7200   -76.1200    0.0000  top
+Light     Light       TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm    99.0000  -101.5000    0.0000  top
+Q1        BC547       TO-92_Inline                                     100.5000   -70.0000    0.0000  top
+Q2        IRF540N     TO-220-3_Vertical                                 89.9600   -83.4450    0.0000  top
+R1        10k         R_2512_6332Metric                                 81.2350   -81.6150    0.0000  top
+R2        4.7K        R_2512_6332Metric                                 81.3025   -86.7700    0.0000  top
+R3        10k         R_2512_6332Metric                                 81.2350   -91.3950    0.0000  top
+R4        1k          R_2512_6332Metric                                 81.2350   -96.2850    0.0000  top
+R5        10k         R_2512_6332Metric                                 88.5000   -91.0375   90.0000  top
+SW1       SW_Push     SW_SPST_B3U-3000P                                 94.8000   -91.0000    0.0000  top
+U1        ATmega8A-A  TQFP-32_7x7mm_P0.8mm                             104.7500   -87.8000    0.0000  top
+U2        DHT11       Aosong_DHT11_5.5x12.0_P2.54mm                    116.5000   -83.9600    0.0000  top
+## End
